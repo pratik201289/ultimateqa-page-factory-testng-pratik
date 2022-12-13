@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Smoke Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.761">
+  <properties />
+  
+  
+            <testcase name="verifyTheErrorMessage" time="2.761" classname="com.ultimateqa.courses.testsuite.LoginPageTest" />
+      
+</testsuite>
